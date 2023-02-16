@@ -25,7 +25,10 @@ function printPoints() {
 }
 
 // Example usage:
-addPoint(1, 2); // Adds 2 points to team 1
-addPoint(2, 3); // Adds 3 points to team 2
 addPoint(1, 1); // Adds 1 point to team 1
+addPoint(1, 2); // Adds 2 points to team 1
+addPoint(1, 3); // Adds 3 points to team 1
+addPoint(2, 1); // Adds 1 points to team 2
+addPoint(2, 2); // Adds 2 point to team 2
+addPoint(2, 3); // Adds 3 points to team 2
 printPoints();  // Prints the current scores for both teams
