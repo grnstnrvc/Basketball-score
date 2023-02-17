@@ -1,0 +1,33 @@
+.scoreboard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 50px auto;
+  font-family: sans-serif;
+}
+
+.team1, .team2 {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.team1 {
+  background-color: #FFC107;
+}
+
+.team2 {
+  background-color: #2196F3;
+}
+
+.points {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.points li {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
