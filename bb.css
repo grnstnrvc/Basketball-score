@@ -2,13 +2,13 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  margin: 50px auto;
+  margin: 55px auto;
   font-family: sans-serif;
 }
 
 .team1, .team2 {
-  border: 2px solid black;
-  padding: 20px;
+  border: 3px solid black;
+  padding: 22x;
   border-radius: 10px;
   text-align: center;
 }
@@ -29,5 +29,5 @@
 
 .points li {
   font-size: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
 }
