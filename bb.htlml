@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <title>Basketball score</title>
+        
+
+        <!--CSS-->
+        <link rel="stylesheet" src="bb.css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
+        <!--Javascript-->
+        <script src="/bb.js"></script>
+      
+    </head>
+    <body>       
+
+       <div class="scoreboard">
+  <div class="team1">
+    <h2>Team 1</h2>
+    <ul class="points"></ul>
+  </div>
+  <div class="team2">
+    <h2>Team 2</h2>
+    <ul class="points"></ul>
+  </div>
+     </div>
+    </body>
+</html>
+
+
+
+
+
